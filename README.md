@@ -9,11 +9,9 @@
 - **July 2025:** I wrote my last line of code by hand. I was 35 years old.
 - **Now:** AI agents write my code. The mythical 10x productivity is real for me.
 
-> "Inveniam Viam Aut Faciam." - I shall either find a way or make one.
->
-> In July 2025, I found a new way.
+> "Inveniam Viam Aut Faciam." - I shall either find a way or make one... In July 2025, I found a new way. 
 
-## What I do now
+## How I Code Now
 
 ```diff
   I decide what to build.
